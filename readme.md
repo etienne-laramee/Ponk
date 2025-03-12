@@ -14,7 +14,6 @@ This project serves as a practice exercise to:
 
 - **Classic Pong Gameplay**: Two paddles and a ball, simulating the original Pong experience.
 - **Single-Player Mode**: Play against a computer-controlled opponent.
-- **Two-Player Mode**: Compete against another player locally.
 - **Basic Sound Effects**: Audio feedback for ball collisions and scoring.
 - **Simple Graphics**: Minimalistic design reminiscent of the original Pong aesthetic.
 
